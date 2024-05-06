@@ -13,7 +13,7 @@ public: string make; string model; int price;
 			model = _model;
 			price = _price;
 		}
-};
+};  
 
 class CarDealer {
 public:
