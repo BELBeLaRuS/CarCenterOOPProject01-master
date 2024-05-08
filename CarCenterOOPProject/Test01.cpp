@@ -7,7 +7,7 @@ public: string make; string model; int price;
 		Car() {
 
 		}
-
+		  
 		Car(string _make, string _model, int _price) {
 			make = _make;
 			model = _model;
